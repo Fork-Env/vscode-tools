@@ -16,8 +16,10 @@
    
  * Cara menggunakan 
    - Buat struct 
-   - Inisialisasi struct dan waktu di dalam "{ }" tekan 1-2x keybinding yg dibuat tadi
-    
+   - Inisialisasi struct dan waktu di dalam "{ }" tekan 1-2x keybinding yg dibuat tadi<br>
+    https://user-images.githubusercontent.com/40784871/164478417-616ecd92-ca43-40a7-aa98-21024ef8c703.mp4
+
+
 # Vscode extensions
  ### code runner
  * Installasi extension<br>
