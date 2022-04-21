@@ -1,6 +1,8 @@
 # Golang
  ### Auto fill struct vscode 
- * Installasi tool __terminal / cmd__<br>
+ * Installasi tool
+   - Jalankan __terminal / cmd__
+   - Pastekan perintah di bawah dan tekan __enter__<br>
     ```
     go get -u github.com/davidrjenni/reftools/cmd/fillstruct
     ```
@@ -10,7 +12,7 @@
    - Tekan tahan __ctrl + k, s__<br>
    - Di kolom pencarian, paste perintah di bawah dan tekan __enter__<br>
      ``` 
-     - Go: Fill struct
+     Go: Fill struct
      ```
    - Tekan tanda __+__ di sebelah kiri tulisan __Go: Fill struct__ dan buat __keybinding__
    
@@ -27,7 +29,7 @@ https://user-images.githubusercontent.com/40784871/164478417-616ecd92-ca43-40a7-
    - Jalankan vscode
    - Tekan __ctrl + p__, paste perintah di bawah dan tekan __enter__
     ```
-    - ext install formulahendry.code-runner
+    ext install formulahendry.code-runner
     ```
  * Konfigurasi vscode<br>
     - Tekan __ctrl + ,__ atau masuk __settings.json__
