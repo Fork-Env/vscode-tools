@@ -17,7 +17,8 @@
  * Cara menggunakan 
    - Buat struct 
    - Inisialisasi struct dan waktu di dalam "{ }" tekan 1-2x keybinding yg dibuat tadi<br>
-    https://user-images.githubusercontent.com/40784871/164478417-616ecd92-ca43-40a7-aa98-21024ef8c703.mp4
+   <br>
+https://user-images.githubusercontent.com/40784871/164478417-616ecd92-ca43-40a7-aa98-21024ef8c703.mp4
 
 
 # Vscode extensions
@@ -61,6 +62,17 @@
         ```
         Run Code
         ```
+    - Menjalakan file __* .go__ tanpa pindah direktori
+
+
+https://user-images.githubusercontent.com/40784871/164478997-f0ba82fe-fd00-4b78-a6fd-bfa1e9e37409.mp4
+     
+   -  Menjalakan file __test.go__ tanpa pindah direktori
+       
+https://user-images.githubusercontent.com/40784871/164479045-43324468-dcde-4b52-a802-df6d38835f7a.mp4
+
+
+     
  ### Inline Parameters Extended for VSCode
  * Installasi extension<br>
    - Jalankan vscode
@@ -79,6 +91,12 @@
     "editor.inlayHints.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
     "editor.inlayHints.fontSize": 13,
     ```
-    - Reload vscode
- * Cara menggunakan
+    - Reload vscode<br>
+
+- Mode nonaktif<br>
+ ![mode-nonaktif-](https://user-images.githubusercontent.com/40784871/164479136-82a3c89d-80e5-4c71-b13a-a68fe564b644.png)
+
+- Mode aktif<br>
+ ![mode-aktif](https://user-images.githubusercontent.com/40784871/164479153-2d20bb7d-63d6-4c01-8073-30b305003e91.png)
+
  
